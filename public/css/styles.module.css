@@ -1,0 +1,39 @@
+.square {
+  border-radius: 0px;
+}
+
+.jumbotron {
+  background-image: linear-gradient(to right, #007bff, #000);
+  color: #fff;
+}
+
+.form_group {
+  margin-bottom: 1rem;
+}
+
+.form_inline .form-control {
+  display: inline-block;
+  width: auto;
+  vertical-align: middle;
+}
+
+.form_row {
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -5px;
+  margin-left: -5px;
+}
+
+.label {
+  margin-bottom: 0.5rem;
+}
+
+.alert {
+  padding: 10px;
+  /* Red */
+  margin-bottom: 5px;
+}
+
+.pointer {
+  cursor: pointer;
+}
